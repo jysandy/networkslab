@@ -1,0 +1,15 @@
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+Non-authoritative answer:
+Name:	www.google.com
+Address: 173.194.38.144
+Name:	www.google.com
+Address: 173.194.38.146
+Name:	www.google.com
+Address: 173.194.38.145
+Name:	www.google.com
+Address: 173.194.38.148
+Name:	www.google.com
+Address: 173.194.38.147
+

@@ -1,0 +1,4 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        1      0 node1202-46.local:58968 mulberry.canonical:http CLOSE_WAIT 
+tcp        0      0 node1202-46.local:49564 live.github.com:https   ESTABLISHED
