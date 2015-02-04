@@ -10,6 +10,7 @@ try:
 	while True:
 		conn, addr = s.accept()
 		data = conn.recv(4096)
+		print 'Received data:\n' + data
 		conn.sendall(data.upper())
 	conn.close()
 	s.close()
